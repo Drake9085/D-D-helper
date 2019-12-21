@@ -1,0 +1,12 @@
+.btn1{
+	margin:10px;
+}
+.floater{
+	position:fixed;
+	z-index: 999;
+	bottom:30px;
+	right:30px;
+}
+
+
+
